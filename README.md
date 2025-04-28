@@ -1,73 +1,55 @@
-# Welcome to your Lovable project
+# Deployed here https://psycho-chat-practice-hub.vercel.app/
 
-## Project info
+## About
+- Psyclone is a platform that provides psychology students with ai patients to practice their therapy skills and gain hands-on experience
+ ## Features
+- AI-Powered Virtual Patients: An interactive chatbot that simulates patients with
+various mental health disorders
+- Realistic Conversational Flow: The AI mimics natural speech, emotional
+responses, and symptom expression to replicate real-world patient interactions
 
-**URL**: https://lovable.dev/projects/fe3a5fef-f585-472d-a275-3665ed8c844d
+- Customizable Scenarios: Students can select conditions (e.g., depression,
+schizophrenia), patient backgrounds, and difficulty levels for tailored practice
+sessions.
 
-## How can I edit this code?
+- Built-In Feedback System: After each session, the platform provides feedback of
+student performance—highlighting empathy, missed cues, and diagnostic
+accuracy
+- Gamification of the progress using user rating and difficulty for patients
+- Competitiveness environment by comparing your result to others
 
-There are several ways of editing your application.
+## Tech stack
 
-**Use Lovable**
+- Frontend
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fe3a5fef-f585-472d-a275-3665ed8c844d) and start prompting.
+[![My Skills](https://skillicons.dev/icons?i=js,react,vite)](https://skillicons.dev)
 
-Changes made via Lovable will be committed automatically to this repo.
+- Backend
+  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo)](https://skillicons.dev)
 
-**Use your preferred IDE**
+- AIML
+  
+[![My Skills](https://skillicons.dev/icons?i=python,flask,tensorflow,pytorch)](https://skillicons.dev)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Feasibility
+- This project can be presented as leetcode but for
+therapists, similar to how leetcode questions help a
+programming student with their credibility , psyclone
+can help therapists get the training they need.
+- A freemium model can be introduced which allows
+users to create their own characters and use them as
+virtual patients or we can have patient difficulty similar
+to chess bots.
+- Analytical feedback can also be provided to students
+for their therapy skills
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/fe3a5fef-f585-472d-a275-3665ed8c844d) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## Viability
+This project is very much required in the
+current world as their is no way for
+therapists to actually improve their skills
+without hands on experience with patients.
+With improvement in ai technology the
+platform will continue to become better and
+can become a haven for the psychology
+industry.
